@@ -1,0 +1,18 @@
+*
+{
+    margin: 25px; 
+
+}
+body{
+    background-color: brown;
+    color: azure;
+    font-family: serif;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+p{
+    background-color: coral;
+    margin: 5px;
+}
